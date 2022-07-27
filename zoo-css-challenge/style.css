@@ -70,6 +70,12 @@ button {
   background-color: #372772;
   border: 2px solid black;
   color: #fff;
+
+}
+
+button:hover {
+  background-color: #00ad82;
+  transition: 0.7s;
 }
 
 footer {
