@@ -106,23 +106,22 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid;
 }
 
 .bear1 {
-  border-color: #f0e100;
+  border: 5px solid #f0e100;
 }
 
 .bear2 {
-  border-color: #0800f0;
+  border: 5px solid #0800f0;
 }
 
 .bear3 {
-  border-color: #f000a0;
+  border: 5px solid #f000a0;
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  vertical-align: top
 }
 
 .tigers {
