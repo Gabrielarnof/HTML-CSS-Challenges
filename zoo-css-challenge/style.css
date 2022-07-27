@@ -5,8 +5,7 @@
 header {
   background-color: #211a1d;
   color: #ffffff;
-  width: 100%;
-  padding: 20px;
+
 }
 
 nav {
@@ -75,8 +74,7 @@ footer {
   justify-content: space-between;
 }
 
-.introduction {
-}
+.introduction {}
 
 #badge {
   height: 120px;
