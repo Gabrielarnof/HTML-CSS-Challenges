@@ -19,6 +19,10 @@ header ul {
   padding: 0;
 }
 
+#logo {
+  border: none
+}
+
 .introduction {
   background-color: rgb(255, 255, 255);
 }
@@ -31,10 +35,6 @@ header ul li {
 section {
   padding: 5%;
   background-color: #f8f0fb;
-}
-
-img {
-  border: 5px solid #75ff75;
 }
 
 h1,
@@ -106,7 +106,19 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid #747c92;
+  border: 5px solid;
+}
+
+.bear1 {
+  border-color: #f0e100;
+}
+
+.bear2 {
+  border-color: #0800f0;
+}
+
+.bear3 {
+  border-color: #f000a0;
 }
 
 .image-container img:first-of-type {
