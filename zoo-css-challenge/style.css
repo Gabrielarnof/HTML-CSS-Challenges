@@ -156,6 +156,11 @@ footer {
   font-size: 120%
 }
 
+.Eagle {
+  background-color: #3c4846;
+  color: #d6dfdb;
+}
+
 .eagle1 {
   border: 5px solid #f000a0;
   display: block;
@@ -165,8 +170,9 @@ footer {
 
 }
 
-.eagle h2,
-.eagle h3 {
+
+.Eagle h2,
+.Eagle h3 {
   color: #3e3bf4
 }
 
