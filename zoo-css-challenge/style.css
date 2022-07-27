@@ -39,8 +39,7 @@ section {
 
 h1,
 h2,
-h3,
-h4,
+h3 h4,
 h5 {
   /*Purple*/
   color: #6320ee;
@@ -53,10 +52,12 @@ h1 {
 
 h2 {
   font-size: 175%;
+
 }
 
 h3 {
   font-size: 150%;
+
 }
 
 button {
@@ -130,13 +131,20 @@ footer {
 }
 
 .giraffe {
-  background-color: #465775;
+  background-color: #483C46;
   color: #56e39f;
 }
 
-.giraffe h2 {
-  color: #ef6f6c;
+.giraffe h2,
+.giraffe h3 {
+  color: #F4743B
 }
+
+.giraffe p:nth-child(2) {
+  font-size: 120%
+}
+
+;
 
 .card {
   display: inline-block;
