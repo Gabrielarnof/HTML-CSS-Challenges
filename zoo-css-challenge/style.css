@@ -156,6 +156,19 @@ footer {
   font-size: 120%
 }
 
+.eagle1 {
+  border: 5px solid #f000a0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.eagle h2,
+.eagle h3 {
+  color: #3e3bf4
+}
 
 .news {
   text-align: center;
