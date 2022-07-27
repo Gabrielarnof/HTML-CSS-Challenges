@@ -18,6 +18,10 @@ header ul {
   padding: 0;
 }
 
+.introduction {
+  background-color: rgb(255, 255, 255);
+}
+
 header ul li {
   display: inline-block;
   margin-right: 10px;
