@@ -73,9 +73,11 @@ button {
 
 }
 
-button:hover {
+button:hover,
+:focus {
   background-color: #00ad82;
   transition: 0.7s;
+
 }
 
 footer {
